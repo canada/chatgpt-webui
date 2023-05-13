@@ -1,0 +1,6 @@
+flask
+openai
+langchain
+tiktoken
+requests
+python-dotenv
